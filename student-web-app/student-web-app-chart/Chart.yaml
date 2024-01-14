@@ -1,0 +1,5 @@
+apiVersion: v2
+name: student-web-app-chart
+description: A Helm chart for Kubernetes to deploy the Student Services application
+version: 0.1.0
+appVersion: "1.0"
